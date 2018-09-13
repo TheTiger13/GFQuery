@@ -1,4 +1,4 @@
-A original `GFQuery` call back returns `GFEventType` and `CLLocation` but with these `GFQuery` classes you can have `FIRDataSnapshot` as well in same call back.
+Original `GFQuery` call back returns `GFEventType` and `CLLocation` but with these `GFQuery` classes you can have `FIRDataSnapshot` as well in same call back.
 
 **Original callback:**
    
